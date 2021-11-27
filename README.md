@@ -1,6 +1,6 @@
-![Header](https://github.com/HeleneLoriot/HeleneLoriot/blob/main/img/headerImg.jpg)
+![Header](https://github.com/HeleneLoriot/HeleneLoriot/blob/main/img/newHeaderImg.jpg)
 
- <strong>I'm a web developer from France, living in Paris</strong>  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>I'm a web developer from France, living in Paris</strong>  
  
 <br />
 
